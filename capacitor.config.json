@@ -1,0 +1,7 @@
+{
+  "appId": "com.splitai.app",
+  "appName": "SplitAI",
+  "webDir": "www",
+  "backgroundColor": "#0d0b24",
+  "android": { "allowMixedContent": false }
+}
